@@ -1,1 +1,2 @@
-还不会写
+print("Hello, World!")
+
